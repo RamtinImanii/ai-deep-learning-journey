@@ -57,7 +57,7 @@ This repository documents my learning process through:
 ### Phase 01 — Python Fundamentals
 
 - [x] Session 02 — What is Python and Why is it Important for AI?
-- [ ] Session 03 — Installing and Setting Up the Python Environment
+- [x] Session 03 — Installing and Setting Up the Python Environment
 - [ ] Session 04 — Variables & Data Types
 - [ ] Session 05 — Operators
 - [ ] Session 06 — Strings
