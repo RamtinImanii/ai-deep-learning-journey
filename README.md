@@ -63,7 +63,7 @@ This repository documents my learning process through:
 - [x] Session 06 — Strings
 - [x] Session 07 — Input & Output
 - [x] Session 08 — Conditions
-- [ ] Session 09 — Loops
+- [x] Session 09 — Loops
 - [ ] Session 10 — Comprehensive Python Basics Practice
 - [ ] Session 11 — Lists
 - [ ] Session 12 — Tuples
