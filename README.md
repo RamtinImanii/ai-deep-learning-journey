@@ -60,7 +60,7 @@ This repository documents my learning process through:
 - [x] Session 03 — Installing and Setting Up the Python Environment
 - [x] Session 04 — Variables & Data Types
 - [x] Session 05 — Operators
-- [ ] Session 06 — Strings
+- [x] Session 06 — Strings
 - [ ] Session 07 — Input & Output
 - [ ] Session 08 — Conditions
 - [ ] Session 09 — Loops
