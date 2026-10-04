@@ -64,7 +64,7 @@ This repository documents my learning process through:
 - [x] Session 07 — Input & Output
 - [x] Session 08 — Conditions
 - [x] Session 09 — Loops
-- [ ] Session 10 — Comprehensive Python Basics Practice
+- [x] Session 10 — Comprehensive Python Basics Practice
 - [ ] Session 11 — Lists
 - [ ] Session 12 — Tuples
 - [ ] Session 13 — Sets
