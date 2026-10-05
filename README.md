@@ -66,7 +66,7 @@ This repository documents my learning process through:
 - [x] Session 09 — Loops
 - [x] Session 10 — Comprehensive Python Basics Practice
 - [x] Session 11 — Lists
-- [ ] Session 12 — Tuples
+- [x] Session 12 — Tuples
 - [ ] Session 13 — Sets
 - [ ] Session 14 — Dictionaries
 - [ ] Session 15 — Comprehensions
