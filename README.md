@@ -28,14 +28,15 @@ and eventually specialize in advanced AI systems.
 - [ ] PyTorch
 - [ ] Deep Learning
 - [ ] Computer Vision
-- [ ] Transformers
+- [ ] Transformers & Attention
 - [ ] Generative AI
-- [ ] LLMs
+- [ ] LLMs & Multimodal AI
 - [ ] RAG
-- [ ] AI Agents
-- [ ] AI Engineering
-- [ ] Deployment & MLOps
-- [ ] Specialization
+- [ ] AI Agents & Agentic Systems
+- [ ] AI Engineering, Product Engineering & MLOps
+- [ ] C++ / GPU / CUDA & Performance
+- [ ] Advanced AI & Specialization Paths
+- [ ] Career & AI Startup
 
 ## 📚 Learning Approach
 
