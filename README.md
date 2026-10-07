@@ -69,7 +69,7 @@ This repository documents my learning process through:
 - [x] Session 11 — Lists
 - [x] Session 12 — Tuples
 - [x] Session 13 — Sets
-- [ ] Session 14 — Dictionaries
+- [x] Session 14 — Dictionaries
 - [ ] Session 15 — Comprehensions
 - [ ] Session 16 — Functions
 - [ ] Session 17 — Parameters, Arguments & Return
