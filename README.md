@@ -36,7 +36,6 @@ and eventually specialize in advanced AI systems.
 - [ ] AI Engineering, Product Engineering & MLOps
 - [ ] C++ / GPU / CUDA & Performance
 - [ ] Advanced AI & Specialization Paths
-- [ ] Career & AI Startup
 
 ## 📚 Learning Approach
 
@@ -70,7 +69,7 @@ This repository documents my learning process through:
 - [x] Session 12 — Tuples
 - [x] Session 13 — Sets
 - [x] Session 14 — Dictionaries
-- [ ] Session 15 — Comprehensions
+- [x] Session 15 — Comprehensions
 - [ ] Session 16 — Functions
 - [ ] Session 17 — Parameters, Arguments & Return
 - [ ] Session 18 — Scope & Namespace
