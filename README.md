@@ -71,7 +71,7 @@ This repository documents my learning process through:
 - [x] Session 14 — Dictionaries
 - [x] Session 15 — Comprehensions
 - [x] Python Project #1 — AI Model Performance Analyzer
-- [ ] Session 16 — Functions
+- [x] Session 16 — Functions
 - [ ] Session 17 — Parameters, Arguments & Return
 - [ ] Session 18 — Scope & Namespace
 - [ ] Session 19 — Lambda & Higher-Order Functions
