@@ -73,6 +73,7 @@ This repository documents my learning process through:
 - [x] Python Project #1 — AI Model Performance Analyzer
 - [x] Session 16 — Functions
 - [x] Session 17 — Parameters, Arguments & Return
+- [x] Python Project #2 — AI Model Evaluation System
 - [ ] Session 18 — Scope & Namespace
 - [ ] Session 19 — Lambda & Higher-Order Functions
 - [ ] Session 20 — map, filter, zip & enumerate
