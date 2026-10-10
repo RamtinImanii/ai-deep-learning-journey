@@ -1,4 +1,4 @@
-"""Session 17: Parameters, Arguments, Return, and Function Best Practices."""
+"""Session 17: Parameters, Arguments, Return, and Function."""
 
 
 # 1. Multiple Return Paths
