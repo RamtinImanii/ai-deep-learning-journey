@@ -70,10 +70,10 @@ This repository documents my learning process through:
 - [x] Session 13 — Sets
 - [x] Session 14 — Dictionaries
 - [x] Session 15 — Comprehensions
-- [x] Python Project #1 — AI Model Performance Analyzer
+- [x] Python Mini Project #1 — AI Model Performance Analyzer
 - [x] Session 16 — Functions
 - [x] Session 17 — Parameters, Arguments & Return
-- [x] Python Project #2 — AI Model Evaluation System
+- [x] Python Mini Project #2 — AI Model Evaluation System
 - [ ] Session 18 — Scope & Namespace
 - [ ] Session 19 — Lambda & Higher-Order Functions
 - [ ] Session 20 — map, filter, zip & enumerate
@@ -85,5 +85,5 @@ This repository documents my learning process through:
 - [ ] Session 26 — Classes & Objects
 - [ ] Session 27 — Attributes & Methods
 - [ ] Session 28 — Inheritance & Polymorphism
-- [ ] Session 29 — Python Project #1
+- [ ] Session 29 — Python Project 
 - [ ] Session 30 — Python Fundamentals Exam
