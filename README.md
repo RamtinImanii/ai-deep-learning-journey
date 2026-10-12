@@ -75,7 +75,7 @@ This repository documents my learning process through:
 - [x] Session 17 — Parameters, Arguments & Return
 - [x] Python Mini Project #2 — AI Model Evaluation System
 - [x] Session 18 — Variable-Length Arguments, Scope & Namespace
-- [ ] Session 19 — Lambda & Higher-Order Functions
+- [x] Session 19 — Lambda & Higher-Order Functions
 - [ ] Session 20 — map, filter, zip & enumerate
 - [ ] Session 21 — Modules & Packages
 - [ ] Session 22 — File Handling
