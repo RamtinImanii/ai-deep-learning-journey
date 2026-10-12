@@ -76,7 +76,7 @@ This repository documents my learning process through:
 - [x] Python Mini Project #2 — AI Model Evaluation System
 - [x] Session 18 — Variable-Length Arguments, Scope & Namespace
 - [x] Session 19 — Lambda & Higher-Order Functions
-- [ ] Session 20 — map, filter, zip & enumerate
+- [x] Session 20 — map, filter, zip & enumerate
 - [ ] Session 21 — Modules & Packages
 - [ ] Session 22 — File Handling
 - [ ] Session 23 — Exceptions & Error Handling
